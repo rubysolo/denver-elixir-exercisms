@@ -9,6 +9,9 @@ folks adding alternate implementations so we can learn from each other.
 
 ## Exercises by meetup:
 
+May 2018
+- [bank-account](bank-account)
+
 April 2017
 - [raindrops](raindrops)
 - [parallel-letter-frequency](parallel-letter-frequency)
