@@ -9,6 +9,9 @@ folks adding alternate implementations so we can learn from each other.
 
 ## Exercises by meetup:
 
+October 2019
+- [matrix](matrix)
+
 May 2018
 - [bank-account](bank-account)
 
